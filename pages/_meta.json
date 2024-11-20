@@ -1,5 +1,27 @@
 {
-  "index": "简介",
-  "feature": "功能介绍",
-  "operation": "操作教程"
+  "index": {
+    "title": "首页",
+    "type": "page",
+    "theme": {
+      "sidebar": false,
+      "toc": true,
+      "pagination": false,
+      "layout": "full",
+      "typesetting": "article"
+    }
+  },
+  "concepts": {
+    "title": "教程",
+    "type": "page",
+    "children": [
+      {
+        "title": "介绍",
+        "link": "/concepts/introduce"
+      }
+    ]
+  },
+  "examples": {
+    "title": "案例",
+    "type": "page"
+  }
 }

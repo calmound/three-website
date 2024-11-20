@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: "文档中心",
+  logo: "Threejs学习",
   useNextSeoProps() {
     return {
       titleTemplate: "%s",
@@ -31,7 +31,6 @@ const config: DocsThemeConfig = {
   editLink: {
     text: "", // 右侧编辑链接文本
   },
-  darkMode: false,
 };
 
 export default config;
