@@ -94,8 +94,6 @@ const Home = () => {
         </a>
         <div
           // href="javascript:void;"
-          target="_blank"
-          rel="noreferrer"
           style={{
             padding: "12px 24px",
             backgroundColor: "#ff5722",
