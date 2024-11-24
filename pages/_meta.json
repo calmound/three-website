@@ -12,13 +12,7 @@
   },
   "concepts": {
     "title": "教程",
-    "type": "page",
-    "children": [
-      {
-        "title": "介绍",
-        "link": "/concepts/introduce"
-      }
-    ]
+    "type": "page"
   },
   "examples": {
     "title": "案例",

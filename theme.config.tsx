@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: "Threejs学习",
+  logo: "Three3D小站",
   useNextSeoProps() {
     return {
       titleTemplate: "%s",

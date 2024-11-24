@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4656a52a66fa2290",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c9caeea59dac1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502f1e4c345a3e1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "concepts/image/第一个3d方盒子.png"
+              },
+              "icon": "lucide-image",
+              "title": "第一个3d方盒子"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a7d85f993ec53ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1c139dcdf95583d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedf120ab7681a6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "63bbc44dd9711507",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f5913f32fe9073d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d683b74f7f2c567d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6cfb6fac2f8e548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2732ce0888f58193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/image/第一个3d方盒子.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一个3d方盒子 的反向链接列表"
+            }
+          },
+          {
+            "id": "d051dd8c9ca72cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/introduce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "introduce 的出链列表"
+            }
+          },
+          {
+            "id": "8ecec5038ac3f249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "df91ba3f9575cdb4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/image/第一个3d方盒子.png"
+              },
+              "icon": "lucide-list",
+              "title": "第一个3d方盒子 的大纲"
+            }
+          },
+          {
+            "id": "ceb6fe8b918b3241",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "502f1e4c345a3e1f",
+  "lastOpenFiles": [
+    "concepts/_meta.js",
+    "concepts/第一个3d方盒子.md",
+    "concepts/box.md",
+    "concepts/image/第一个3d方盒子.png",
+    "concepts/image/1 1.gif",
+    "concepts/image/1.gif",
+    "concepts/image/1.png",
+    "concepts/image/2.png",
+    "concepts/image/第一个3d方盒子-1.png",
+    "concepts/image.png",
+    "concepts/init.md",
+    "concepts/webgl.md",
+    "concepts/scene.md",
+    "concepts/preface.md",
+    "concepts/introduce.md",
+    "concepts/image/init-6.png",
+    "concepts/image/init-5.png",
+    "concepts/image/init-4.png",
+    "examples/star.md"
+  ]
+}
