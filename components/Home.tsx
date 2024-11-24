@@ -92,8 +92,8 @@ const Home = () => {
         >
           查看我的 B 站
         </a>
-        <a
-          href="javascript:;"
+        <div
+          // href="javascript:void;"
           target="_blank"
           rel="noreferrer"
           style={{
@@ -115,7 +115,7 @@ const Home = () => {
           }}
         >
           微信：sanmu1598
-        </a>
+        </div>
       </div>
     </div>
   );
