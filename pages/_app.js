@@ -17,7 +17,6 @@ const App = ({ Component, pageProps }) => {
           `,
         }}
       />
-      test code
       <Component {...pageProps} />
     </>
   );
