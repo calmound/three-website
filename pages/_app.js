@@ -4,6 +4,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <GoogleAnalytics trackPageViews />
+      test code
       <Component {...pageProps} />
     </>
   );
