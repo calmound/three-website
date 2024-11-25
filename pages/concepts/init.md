@@ -1,5 +1,5 @@
 ---
-title: 搭建 threejs 的环境
+title: 02-搭建 threejs 的环境
 ---
 
 # 搭建 threejs 的环境
@@ -20,7 +20,8 @@ title: 搭建 threejs 的环境
       {
         "imports": {
           "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.min.js"
-       script   }
+       script
+       }
     </script>
     <script type="module">
       import * as THREE from "three";
@@ -59,13 +60,13 @@ import * as THREE from "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.m
 
 以上，就是通过 html 引入 threejs 的方式。
 
-# 搭建 vite 环境
+## 搭建 vite 环境
 
 vite 是一个基于 esmodules 的开发服务器，它可以让我们在开发的时候使用 es6 的模块化来开发，同时它还支持热更新。
 使用它很方便搭建一个纯 js，或者 vue，react 的项目。
 官方文档：https://vitejs.cn/vite3-cn/guide/
 
-## 安装 vite
+### 安装 vite
 
 ```
 npm create vite
