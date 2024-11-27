@@ -1,5 +1,5 @@
 ---
-title: 02-搭建 threejs 的环境
+title: 搭建 threejs 的环境
 ---
 
 # 搭建 threejs 的环境
