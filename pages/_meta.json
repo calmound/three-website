@@ -15,7 +15,11 @@
     "type": "page"
   },
   "examples": {
-    "title": "案例",
+    "title": "案例教程",
+    "type": "page"
+  },
+  "project": {
+    "title": "项目",
     "type": "page"
   }
 }
