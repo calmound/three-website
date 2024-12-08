@@ -1,17 +1,8 @@
 {
-  "introduce": {
-    "order": 1
+  "basic": {
+    "title": "入门"
   },
-  "init": {
-    "order": 2
-  },
-  "box": {
-    "order": 3
-  },
-  "camera": {
-    "order": 4
-  },
-  "light": {
-    "order": 5
+  "blender": {
+    "title": "3D建模"
   }
 }

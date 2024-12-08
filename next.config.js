@@ -31,6 +31,7 @@ module.exports = withNextra({
       config.optimization.minimize = true;
       config.devtool = "hidden-source-map";
     }
+
     return config;
   },
 });

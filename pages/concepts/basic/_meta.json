@@ -1,0 +1,26 @@
+{
+  "introduce": {
+    "order": 1
+  },
+  "init": {
+    "order": 2
+  },
+  "box": {
+    "order": 3
+  },
+  "camera": {
+    "order": 4
+  },
+  "light": {
+    "order": 5
+  },
+  "xyz": {
+    "order": 6
+  },
+  "geometry": {
+    "order": 7
+  },
+  "points": {
+    "order": 8
+  }
+}

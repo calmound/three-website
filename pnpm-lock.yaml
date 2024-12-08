@@ -36,6 +36,9 @@ importers:
       '@types/node':
         specifier: 18.11.10
         version: 18.11.10
+      ignore-loader:
+        specifier: ^0.1.2
+        version: 0.1.2
       typescript:
         specifier: ^4.9.3
         version: 4.9.3
@@ -643,6 +646,9 @@ packages:
 
   hastscript@7.2.0:
     resolution: {integrity: sha512-TtYPq24IldU8iKoJQqvZOuhi5CyCQRAbvDOX0x1eW6rsHSxa/1i2CCiptNTotGHJ3VoHRGmqiv6/D3q113ikkw==}
+
+  ignore-loader@0.1.2:
+    resolution: {integrity: sha512-yOJQEKrNwoYqrWLS4DcnzM7SEQhRKis5mB+LdKKh4cPmGYlLPR0ozRzHV5jmEk2IxptqJNQA5Cc0gw8Fj12bXA==}
 
   inline-style-parser@0.1.1:
     resolution: {integrity: sha512-7NXolsK4CAS5+xvdj5OMMbI962hU/wvwoxk+LWR9Ek9bVtyuuYScDN6eS0rUm6TxApFpw7CX1o4uJzcd4AyD3Q==}
@@ -1972,6 +1978,8 @@ snapshots:
       hast-util-parse-selector: 3.1.1
       property-information: 6.2.0
       space-separated-tokens: 2.0.2
+
+  ignore-loader@0.1.2: {}
 
   inline-style-parser@0.1.1: {}
 
